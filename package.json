@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "webp-converter": "^2.3.3"
+  }
+}
